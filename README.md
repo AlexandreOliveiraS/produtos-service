@@ -1,4 +1,4 @@
-# Produtos Service (Quarkus + Java 17)
+# Produtos Service (Quarkus + Java 21)
 
 API REST de produtos feita com **Quarkus 3**, **Hibernate ORM with Panache** e **H2 em memória**.  
 Projeto simples para demonstrar CRUD, boas práticas e documentação com **Swagger**.
